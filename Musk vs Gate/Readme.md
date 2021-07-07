@@ -1,0 +1,1 @@
+En este Repositorio analizaré la fortuna de Elon Musk vs Bill Gate con Jupyter NB
